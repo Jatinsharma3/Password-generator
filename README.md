@@ -1,1 +1,2 @@
-Suggest different types of passwords.
+Suggest different types of passwords.<br>
+Author: Jatin sharma
